@@ -11,7 +11,7 @@
 
 <style>
   .title-card {
-    background-image: url("gradiant.jpg");
+    background-color:  rgb(95, 76, 143);
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -24,26 +24,28 @@
 
   .content {
     max-width: 700px;
-    background-color: #5d5bb9;
+    background-image: url("gradiant.jpg");
+    background-size: cover;
     padding: 2rem;
-    border: 6px solid #0a0685;
+    border: 2px solid black;
     border-radius: 2rem;
     box-shadow: 16px 16px #260f62;
   }
 
   h1 {
-    font-size: 40px;
-    font-family:'Narrow';
-    margin: 0;
+    font-size: 30px;
+    font-family: 'Courier New', monospace;
+    margin: 1rem;
     color: white;
-    text-shadow: 1px 1px 0 #007052;
+    text-shadow: 1px 1px 0 black;
   }
 
   p {
     font-size: 1.3rem;
-    font-family: Narrow;
+    font-family: 'Courier New', monospace;
     color: white;
     margin-top: 1rem;
+    text-shadow: 1px 1px 0 black;
   }
 
   @media (max-width: 600px) {
