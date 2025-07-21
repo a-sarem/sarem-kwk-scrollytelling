@@ -65,31 +65,21 @@
         <Chart {options} highcharts={Highcharts} />
       </div>
       <p>
-        This bar chart from the BWDC displays the
+       📊 This data is from the Black Wealth Data Center 
         <a
           href="https://blackwealthdata.org/wealth-indicator?firstCounty=Cumberland%20County,%20North%20Carolina&secondCounty=national&method=auto"
-          >PPP Loan Approval Amount per Black Capita</a
-        >
+          >Black Wealth Data Center</a
+        > website
       </p>
       <p>
-        📈 <strong>Highcharts</strong> is a super-flexible library for creating
-        all kinds of charts. See demos of different chart types
-        <a href="https://www.highcharts.com/demo">here</a>.
+        📍 <strong>Location: </strong>  Cumberland County, North Carolina. 
+        all kinds of charts.
       </p>
       <p>
-        Since we're using Highcharts through Svelte, the syntax is a little
-        different from what you might see in the demos. But all of Highcharts'
-        functionality is available through the Highcharts for Svelte package.
+        This data displays Cumberland Countys' loan approval for black owned businesses. The blue column represents Cumberland County, while the grey column represents the national.
       </p>
       <p>
-        The configuration is done through the
-        <code>options</code> json object passed to the chart, which you'll see in
-        the source code for this template.
-      </p>
-      <p>
-        Use the
-        <a href="https://api.highcharts.com/highcharts/">API reference</a>
-        to understand what each element in the <code>options</code> object does.
+        The data can uncover inequities in business support, particularly for Black-owned businesses in specific counties, such as Cumberland County, North Carolina, compared to the national average.
       </p>
     {/snippet}
 
@@ -103,25 +93,14 @@
       <ArticleText>
         This data shows how acsess to capital was not equal. During COVID-19, <strong
           >PPP Loans</strong
-        > (a program to support small businesses through COVID-19) was not distributed
+        > (a federal funding program to support small businesses through COVID-19) was not distributed
         equally.
       </ArticleText>
 
       <ArticleText>
-        You can use this template as a <strong>starting point</strong>
-        for your project.
-        <br /><br />
-        Or, if you want to build something from scratch, you can use it as a
-        <strong>reference</strong> for specific functionality.
+        Additonally, this reflects access to emergency small business loans and highlights the disparities in how financial relief distributed. 
       </ArticleText>
 
-      <ArticleText>
-        This is <strong>just one way</strong> that scrollytelling can look.
-        <br /><br />
-        <strong>
-          If you use this template, be sure to modify it and make it your own!
-        </strong>
-      </ArticleText>
     {/snippet}
   </Scroller>
 </div>
