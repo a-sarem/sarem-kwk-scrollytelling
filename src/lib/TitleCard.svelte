@@ -11,7 +11,7 @@
 
 <style>
   .title-card {
-    background-color:  rgb(95, 76, 143);
+    background-color: rgb(95, 76, 143);
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -34,7 +34,7 @@
 
   h1 {
     font-size: 30px;
-    font-family: 'Courier New', monospace;
+    font-family: "Courier New", monospace;
     margin: 1rem;
     color: white;
     text-shadow: 1px 1px 0 black;
@@ -42,7 +42,7 @@
 
   p {
     font-size: 1.3rem;
-    font-family: 'Courier New', monospace;
+    font-family: "Courier New", monospace;
     color: white;
     margin-top: 1rem;
     text-shadow: 1px 1px 0 black;
