@@ -1,13 +1,9 @@
-# KWK Scrollytelling template
+# KWK Scrollytelling
 
-This template is a starting point / example of how to create a scrollytelling piece using Svelte and Highcharts! 
+Sarems scrollytelling!
 
-## Demo
+## KWK Original Demo
 See a live demo of the page [here](https://jasminesamra.github.io/kwk-scrollytelling-template/)!
-
-## Recommended IDE Setup
-
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode).
 
 ## How to clone the repo
 On this repo's homepage in GitHub, click the `Use this template` button. Select the option to create a new repository. This will create a new repo under your GitHub account.
@@ -20,4 +16,5 @@ Run `npm install` and then `npm run dev` to spin up the project locally. Then, s
 
 ## Credit
 Repo created using vite (`npm create vite@6`)
+
 Template by Jasmine Samra (https://jasminesamra.github.io/kwk-scrollytelling-template/)
