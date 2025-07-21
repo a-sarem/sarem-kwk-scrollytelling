@@ -69,7 +69,7 @@
         <a
           href="https://blackwealthdata.org/wealth-indicator?firstCounty=Cumberland%20County,%20North%20Carolina&secondCounty=national&method=auto"
           >PPP Loan Approval Amount per Black Capita</a
-        >!
+        >
       </p>
       <p>
         📈 <strong>Highcharts</strong> is a super-flexible library for creating
