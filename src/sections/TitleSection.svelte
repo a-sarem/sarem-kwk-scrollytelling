@@ -1,7 +1,7 @@
 <script>
     import TitleCard from "../lib/TitleCard.svelte";
     
-    const title = "What are the key differences in business outcomes between Black-owned and white-owned businesses?";
+    const title = "Unequal Capital, Unequal Outcomes";
     const subtitle = "By Sarem Agha";
 </script>
 
