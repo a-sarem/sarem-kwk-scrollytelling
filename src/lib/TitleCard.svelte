@@ -19,7 +19,7 @@
     text-align: center;
     padding: 2rem;
     box-sizing: border-box;
-    font-family: "Inter", sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
 
   .content {

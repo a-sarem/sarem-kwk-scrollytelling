@@ -71,6 +71,7 @@
           >Black Wealth Data Center</a
         > website
       </p>
+      <p>This visualization was created in <a href = "https://www.highcharts.com/demo">High Charts website</a></p>
       <p>
         📍 <strong>Location: </strong>  Cumberland County, North Carolina. 
         all kinds of charts.
