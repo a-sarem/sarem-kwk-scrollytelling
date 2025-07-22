@@ -84,6 +84,7 @@
       </p>
     {/snippet}
 
+    
     {#snippet scrolly()}
       <ArticleText>
         Racial wealth disparities are a core challenge in the U.S. economy. This
@@ -103,6 +104,7 @@
       </ArticleText>
 
     {/snippet}
+
   </Scroller>
 </div>
 
