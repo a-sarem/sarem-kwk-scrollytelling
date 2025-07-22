@@ -18,3 +18,9 @@ Run `npm install` and then `npm run dev` to spin up the project locally. Then, s
 Repo created using vite (`npm create vite@6`)
 
 Template by Jasmine Samra (https://jasminesamra.github.io/kwk-scrollytelling-template/)
+
+Pew Research: https://www.pewresearch.org/short-reads/2025/02/12/a-look-at-black-owned-businesses-in-the-us/
+
+Black Wealth Data Center: https://blackwealthdata.org/explore/business
+
+
