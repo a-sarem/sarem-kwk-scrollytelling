@@ -46,66 +46,33 @@
         {#snippet sticky()}
             <div>
                 <p>
-                    You can use the event triggered by an Intersection Observer
-                    any way you want!
-                </p>
+                    📊 This data is from the Black Wealth Data Center 
+                    <a
+                        href="https://blackwealthdata.org/wealth-indicator?firstCounty=Cumberland%20County,%20North%20Carolina&secondCounty=national&method=auto"
+                    >Black Wealth Data Center</a
+                    > website
+                        </p>
 
                 <p>
-                    This section will show you how to use it to
-                    <strong>
-                        change something other than the element that triggered
-                        the event.
-                    </strong>
+                    📍 Location: North Carolina
                 </p>
                 <p>
-                    To see this section in action again, you'll have to refresh
-                    the page.
+                    This chart displays the percentage of business ownership by race across the United States. It highlights the stark disparities in Black business ownership compared to other racial groups, underscoring the persistent wealth and opportunity gaps in entrepreneurship.
                 </p>
             </div>
         {/snippet}
 
         {#snippet scrolly()}
-            <ObservedArticleText callback={simpleCallback} {options}>
-                This article text is just like the ones from the last section.
-                <br /><br />
-                <strong>The next one will do something different.</strong>
+            <ObservedArticleText callback={alertCallback} {options}>
+                Racial disparities in business ownership, Black Americans remain significantly underrepresented compared to other groups, reflecting broader systemic inequities in access to capital and opportunities.
             </ObservedArticleText>
 
             <ObservedArticleText callback={alertCallback} {options}>
-                This <code>{"<ArticleText>"}</code> component causes an alert to
-                show when scrolled into view!
-                <br /><br />
-                Notice that nothing changes about this particular
-                <code>{"<ArticleText>"}</code> component itself.
-                <br /><br />
-                <strong
-                    >You can use an Intersection Observer event to trigger
-                    changes:</strong
-                >
-                <ul>
-                    <li>the observed element itself</li>
-                    <li>in some other element</li>
-                    <li>or both</li>
-                </ul>
+                Ultimately, addressing these gaps is essential for building a more just and inclusive economy.
             </ObservedArticleText>
 
-            <ObservedArticleText callback={simpleCallback} {options}>
-                Think of the Intersection Observer event trigger like any other
-                event:
-                <ul>
-                    <li>a <code>mouseover</code> event</li>
-                    <li>a <code>mouseclick</code> event</li>
-                    <li>a keyboard key being pressed</li>
-                </ul>
-                Any of these kinds of events can be used to trigger any action you
-                want to take on the page.
-            </ObservedArticleText>
-
-            <ObservedArticleText callback={simpleCallback} {options}>
-                <strong>
-                    🤔 How might you use this functionality to draw attention to
-                    something on your website?
-                </strong>
+            <ObservedArticleText callback={alertCallback} {options}>
+                    Thank you!
             </ObservedArticleText>
         {/snippet}
     </Scroller>
