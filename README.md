@@ -1,4 +1,6 @@
-# KWK Scrollytelling template
+# KWK Scrollytelling Challenge
+
+Main Research Quesiton: What are the key differences in business outcomes (e.g., revenue, profitability, employment) between Black-owned and white-owned businesses, and how much of that can be attributed to disparities in access to capital? 
 
 This template is a starting point / example of how to create a scrollytelling piece using Svelte and Highcharts! 
 
